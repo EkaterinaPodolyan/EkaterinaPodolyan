@@ -1,7 +1,7 @@
-<h1 align="center">Всем привет, я Екатерина</h1>h1>
+<h1 align="center">Всем привет👋, я Екатерина</h1>
+<h3 align="center">кто я  или кем хочу стать</h3>
 
-### Hi there 👋
-
+### Hi there 
 <!--
 **EkaterinaPodolyan/EkaterinaPodolyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
