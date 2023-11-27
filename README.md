@@ -1,6 +1,7 @@
 <h1 align="center">Всем привет, я Екатерина</h1>
+<h3 align="center">Начинающий Data Scientist</h3>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCA7&lines=Начинающий+Data+Scientist.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336DDA7&lines=Активно+ищу+работу)](https://git.io/typing-svg)
 
 -  пишу на ***Python***, ***C++***
 -  изучаю ***DS***
