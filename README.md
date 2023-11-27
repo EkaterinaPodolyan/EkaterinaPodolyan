@@ -2,7 +2,8 @@
 <h3 align="center">кто я  или кем хочу стать</h3>
 
 - 🔭 пишу на ***Python***, ***C++***
-- 🌱 ***DS***
+- 🌱 изучаю ***DS***
+- моё [резюме](https://hh.ru/resume/502d2bd9ff097b9d350039ed1f717150755133) на hh
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
