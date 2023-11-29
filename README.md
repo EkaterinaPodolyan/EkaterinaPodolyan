@@ -9,7 +9,7 @@
 
 ---
 - моё [**резюме**](https://hh.ru/resume/502d2bd9ff097b9d350039ed1f717150755133) на hh
-- 📫 моя [**почта**](podolyankatrusyenka@yandex.ru)
+- 📫 моя **почта**   <podolyankatrusyenka@yandex.ru>
 
 #### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/PodolyanEkaterina)
